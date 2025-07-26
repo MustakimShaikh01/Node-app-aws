@@ -1,0 +1,26 @@
+# 🔐 Security
+backend.pem
+*.pem
+
+# 🛠 Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# 🚀 Deployment & IDE
+.DS_Store
+dist/
+build/
+*.log
+
+# 🧪 Test coverage
+coverage/
+
+# 💻 OS / Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+*.code-workspace
