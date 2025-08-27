@@ -1,5 +1,3 @@
-Here’s a professional, complete README template for your repository. I’ve made it generic and production-ready based on typical Node.js + AWS apps. Once you share your `server.js` code, we can make it more specific.
-
 ---
 
 ## Node-app-aws
@@ -111,11 +109,3 @@ http://localhost:3000
 4. Create a pull request.
 
 ---
-
-### License
-
-This project is licensed under the MIT License.
-
----
-
-Would you like me to **customize this README based on the actual `server.js` code** (routes, logic, AWS service used)? If yes, **please share the code** or confirm the AWS services you are integrating (S3, DynamoDB, Lambda, etc.).
