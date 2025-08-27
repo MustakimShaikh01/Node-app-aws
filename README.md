@@ -1,5 +1,3 @@
----
-
 ## Node-app-aws
 
 A Node.js application integrated with AWS services. This repository contains a server application that demonstrates backend logic, API endpoints, and AWS integrations (like S3, EC2, Lambda, etc., depending on your code).
@@ -109,3 +107,5 @@ http://localhost:3000
 4. Create a pull request.
 
 ---
+
+Would you like me to **customize this README based on the actual `server.js` code** (routes, logic, AWS service used)? If yes, **please share the code** or confirm the AWS services you are integrating (S3, DynamoDB, Lambda, etc.).
